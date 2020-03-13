@@ -1,6 +1,6 @@
 ## foocat5 
 
-![](https://github.com/ttimbers/foocat5/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/ttimbers/foocat5/branch/master/graph/badge.svg)](https://codecov.io/gh/ttimbers/foocat5) ![Release](https://github.com/ttimbers/foocat5/workflows/Release/badge.svg)
+![](https://github.com/UBC-MDS/foocat5/workflows/build/badge.svg) [![codecov](https://codecov.io/gh/UBC-MDS/foocat5/branch/master/graph/badge.svg)](https://codecov.io/gh/UBC-MDS/foocat5) ![Release](https://github.com/UBC-MDS/foocat5/workflows/Release/badge.svg)
 
 [![Documentation Status](https://readthedocs.org/projects/foocat5/badge/?version=latest)](https://foocat5.readthedocs.io/en/latest/?badge=latest)
 
