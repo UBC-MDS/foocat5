@@ -13,15 +13,10 @@ pip install -i https://test.pypi.org/simple/ foocat5
 ```
 
 ### Features
-- TODO
+Concatenates categoricals!
 
 ### Dependencies
-
-- TODO
-
-### Usage
-
-- TODO
+Python 3.7 or higher and Pandas!
 
 ### Documentation
 The official documentation is hosted on Read the Docs: <https://foocat5.readthedocs.io/en/latest/>
